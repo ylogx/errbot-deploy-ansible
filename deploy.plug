@@ -1,0 +1,12 @@
+[Core]
+name = deploy
+module = deploy
+
+[Documentation]
+description = Bot Plugin to deploy web apps using ansible
+
+[Python]
+version = 3
+
+[Errbot]
+
